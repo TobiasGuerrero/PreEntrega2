@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Producto 1",
+    "description": "Descripción del Producto 1",
+    "price": 11,
+    "thumbnail": "https://example.com/product1.jpg",
+    "code": "P1",
+    "stock": 20
+  },
+  {
+    "id": 2,
+    "title": "Producto 2",
+    "description": "Descripción del Producto 2",
+    "price": 20,
+    "thumbnail": "https://example.com/product2.jpg",
+    "code": "P2",
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "title": "Producto 3",
+    "description": "Descripción del Producto 3",
+    "price": 9,
+    "thumbnail": "https://example.com/product3.jpg",
+    "code": "P3",
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "title": "Producto 4",
+    "description": "Descripción del Producto 4",
+    "price": 15,
+    "thumbnail": "https://example.com/product4.jpg",
+    "code": "P4",
+    "stock": 5
+  },
+  {
+    "id": 5,
+    "title": "Producto 5",
+    "description": "Descripción del Producto 5",
+    "price": 25,
+    "thumbnail": "https://example.com/product5.jpg",
+    "code": "P5",
+    "stock": 8
+  },
+  {
+    "id": 6,
+    "title": "Producto 6",
+    "description": "Descripción del Producto 6",
+    "price": 12,
+    "thumbnail": "https://example.com/product6.jpg",
+    "code": "P6",
+    "stock": 15
+  },
+  {
+    "id": 7,
+    "title": "Producto 7",
+    "description": "Descripción del Producto 7",
+    "price": 19,
+    "thumbnail": "https://example.com/product7.jpg",
+    "code": "P7",
+    "stock": 3
+  },
+  {
+    "id": 8,
+    "title": "Producto 8",
+    "description": "Descripción del Producto 8",
+    "price": 10,
+    "thumbnail": "https://example.com/product8.jpg",
+    "code": "P8",
+    "stock": 12
+  },
+  {
+    "id": 9,
+    "title": "Producto 9",
+    "description": "Descripción del Producto 9",
+    "price": 7,
+    "thumbnail": "https://example.com/product9.jpg",
+    "code": "P9",
+    "stock": 18
+  },
+  {
+    "id": 10,
+    "title": "Producto 10",
+    "description": "Descripción del Producto 10",
+    "price": 17,
+    "thumbnail": "https://example.com/product10.jpg",
+    "code": "P10",
+    "stock": 7
+  }
+]
